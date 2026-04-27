@@ -1,1 +1,2 @@
 print("HELLOW METT")
+git init
